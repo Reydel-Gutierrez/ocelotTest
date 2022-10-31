@@ -1,0 +1,1 @@
+echo "new script test from visual studio using ssh"
